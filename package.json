@@ -1,0 +1,19 @@
+{
+  "name": "awardsdb-api",
+  "version": "0.1.0",
+  "description": "Javascript API for querying Golden Globes and Oscards awards data",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baieric/awardsdb-api.git"
+  },
+  "keywords": [
+    "oscars",
+    "awards",
+    "baieric",
+    "golden globes",
+    "api"
+  ],
+  "author": "Eric Bai",
+  "license": "MIT"
+}
